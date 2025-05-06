@@ -164,6 +164,7 @@
 *,
 *::before,
 *::after {
+  border-radius: 20px;
   box-sizing: border-box;
 }
 
